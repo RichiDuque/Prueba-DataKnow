@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Outputs generados (opcionales en git)
+outputs/*.csv
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
