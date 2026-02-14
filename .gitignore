@@ -13,9 +13,6 @@ __pycache__/
 .vscode/
 *.code-workspace
 
-# Outputs generados (opcionales en git)
-outputs/*.csv
-
 # macOS
 .DS_Store
 
